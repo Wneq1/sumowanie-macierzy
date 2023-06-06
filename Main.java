@@ -20,6 +20,7 @@ class Main {
         suma += macierz[rzad][kolumna];
       }
     }
+
     
     System.out.println("Suma elementów w macierzy: " + suma);
   }
